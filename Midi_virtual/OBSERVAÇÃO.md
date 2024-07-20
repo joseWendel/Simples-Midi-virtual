@@ -1,1 +1,1 @@
-- Este é um projeto de teste para estudos básicos de front-end, desenvolvido com base nos cursos da Alura
+- Este é um projeto de teste para estudos básicos de front-end, desenvolvido com base nos cursos da Alura.
